@@ -23,3 +23,12 @@ x-KCTian :mortar_board: | Explorer :earth_asia: | Foodie :fork_and_knife:
 - Twitter: https://twitter.com/gokulkarthickct :bird:
 - LinkedIn: https://linkedin.com/in/gokulkarthick 📫
 - Instagram: https://instagram.com/gokulkarthick :ghost:
+
+
+### Other :link:
+
+- VakilSearch: https://vakilsearch.com 
+- GDG Coimbatore: https://gdgcbe.com
+- KCT: https://kct.ac.in
+
+:v:
