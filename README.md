@@ -26,7 +26,7 @@ x-KCTian :mortar_board: | Explorer :earth_asia: | Foodie :fork_and_knife:
 <!-- - Instagram: https://instagram.com/gokulkarthick :ghost: -->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gokulkarthickct?style=social) 
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-15.5k-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-.5k-blue?style=social&logo=linkedin)
 <!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/?style=social) -->
 ![GitHub followers](https://img.shields.io/github/followers/gokulkarthick?style=social)
 
