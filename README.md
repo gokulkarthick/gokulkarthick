@@ -1,4 +1,4 @@
-### Hi! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> :octocat: I'm a DevOps @VakilSearch :computer: | First Member @GDGCoimbatore :space_invader:
+### Hi!:octocat: <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I'm a DevOps @VakilSearch :computer: | First Member @GDGCoimbatore :space_invader:
 
 x-KCTian :mortar_board: | Explorer :earth_asia: | Foodie :fork_and_knife:
 
